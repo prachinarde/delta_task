@@ -1,0 +1,22 @@
+* {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+}
+body{
+    background-color: blueviolet;
+}
+table{
+    border: 2px double brown;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 10em;
+
+}
+td{
+    padding: 5em;
+    border: 1px solid yellowgreen;
+    background-color: black;
+}
